@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6513c03-e0de-41aa-91be-2ace382b90bd" />
 Program Rata-rata Nilai Siswa
  Perangkat program:
 
